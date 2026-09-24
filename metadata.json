@@ -1,0 +1,8 @@
+{
+  "name": "Remix Plan de Implementación Tanzu HCI",
+  "description": "Seguimiento en vivo y plan de proyecto adaptativo asistido por IA para la implementación de VMware vSphere with Tanzu sobre HCI HPE SimpliVity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
